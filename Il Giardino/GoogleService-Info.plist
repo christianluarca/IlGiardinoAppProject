@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>690291796309-39roe3io70nemji8tjnao6ajigqk8amv.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.690291796309-39roe3io70nemji8tjnao6ajigqk8amv</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAyUAFRD5BjPFiHFgEdYbymuBqw4LutqPg</string>
+	<key>GCM_SENDER_ID</key>
+	<string>690291796309</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.SurilisLabs.Il-Giardino</string>
+	<key>PROJECT_ID</key>
+	<string>il-giardino-7c1a8</string>
+	<key>STORAGE_BUCKET</key>
+	<string>il-giardino-7c1a8.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:690291796309:ios:d92a71c38953eba0</string>
+	<key>DATABASE_URL</key>
+	<string>https://il-giardino-7c1a8.firebaseio.com</string>
+</dict>
+</plist>

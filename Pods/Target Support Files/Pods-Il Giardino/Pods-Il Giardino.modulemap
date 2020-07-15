@@ -1,0 +1,6 @@
+framework module Pods_Il_Giardino {
+  umbrella header "Pods-Il Giardino-umbrella.h"
+
+  export *
+  module * { export * }
+}
